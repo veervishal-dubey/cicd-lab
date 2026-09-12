@@ -1,5 +1,5 @@
 // The functions our pipeline will test. Keep them simple.
-// Hell9o my name is jeff and I am a shark
+// Hello my name is jeff and I am a shark. I like ice cream
 
 
 function add(a, b) {
